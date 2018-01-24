@@ -2,9 +2,11 @@
 
 A collection of technologies I need to get familiar with this year.
 
+Legend: Completed tasks are marked with a :negative_squared_cross_mark:
+
 1. Node.js
 	1. PackageManager
-		1. NPM :negative_squared_cross_mark:
+		1. :negative_squared_cross_mark:NPM
 		2. Yarn
 	2. Frameworks
 		1. Express
