@@ -4,7 +4,9 @@ A collection of technologies I need to get familiar with this year.
 
 Inspired from the https://github.com/kamranahmedse/developer-roadmap
 
-Legend: Completed tasks are marked with a :negative_squared_cross_mark:
+**Legend**:
+- Completed tasks are marked with a :negative_squared_cross_mark:
+- Unmarked tasks are not completed
 
 1. Node.js
 	1. PackageManager
@@ -65,8 +67,8 @@ Legend: Completed tasks are marked with a :negative_squared_cross_mark:
 	1. Search Engines
 		1. Solr
 		2. Sphinx
-		3. ElasitcSearch
+		3. ElasticSearch
 	2. GOF Design Patterns
 	3. Architectural Patterns
 
-12. Add more to this list
+12. Add more stuff to this list
