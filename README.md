@@ -4,7 +4,7 @@ A collection of technologies I need to get familiar with this year.
 
 1. Node.js
 	1. PackageManager
-		1. NPM
+		1. NPM :negative_squared_cross_mark:
 		2. Yarn
 	2. Frameworks
 		1. Express
