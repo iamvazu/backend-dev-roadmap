@@ -2,6 +2,8 @@
 
 A collection of technologies I need to get familiar with this year.
 
+Inspired from the https://github.com/kamranahmedse/developer-roadmap
+
 Legend: Completed tasks are marked with a :negative_squared_cross_mark:
 
 1. Node.js
@@ -9,7 +11,7 @@ Legend: Completed tasks are marked with a :negative_squared_cross_mark:
 		1. :negative_squared_cross_mark:NPM
 		2. Yarn
 	2. Frameworks
-		1. Express
+		1. :negative_squared_cross_mark:Express
 		2. Loopback
 		3. hapi
 		4. koa
@@ -23,11 +25,11 @@ Legend: Completed tasks are marked with a :negative_squared_cross_mark:
 		6. Ava
 2. WebServer
 	1. Caddy
-	2. Apache
+	2. :negative_squared_cross_mark:Apache
 	3. Ngnix
-3. RESTful APIs
+3. :negative_squared_cross_mark:RESTful APIs
 4. Authentication
-	1. Firebase
+	1. :negative_squared_cross_mark:Firebase Auth
 	2. JWT
 	3. OAuth2
 5. Design Principles
@@ -36,7 +38,7 @@ Legend: Completed tasks are marked with a :negative_squared_cross_mark:
 	3. KISS
 	4. etc...
 6. Regular Expressions
-7. GraphQL
+7. :negative_squared_cross_mark:GraphQL
 8. Docker
 9. Message Brokers
 	1. RabbitMQ
@@ -47,15 +49,15 @@ Legend: Completed tasks are marked with a :negative_squared_cross_mark:
 		2. Redis
 	2. Relational Databases
 		1. Oracle
-		2. PostgreSQL
+		2. :negative_squared_cross_mark:PostgreSQL
 		3. MariaDB
-		4. MySQL
+		4. :negative_squared_cross_mark:MySQL
 		5. MSSQL
 	3. NoSQL Databases
 		1. Redis
-		2. MongoDB
-		3. Firebase Database
-		4. Firestore
+		2. :negative_squared_cross_mark:MongoDB
+		3. :negative_squared_cross_mark:Firebase Database
+		4. :negative_squared_cross_mark:Firestore
 		5. Cassandra
 		6. RethinkDB
 		7. Couchbase
